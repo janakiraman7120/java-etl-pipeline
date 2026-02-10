@@ -1,0 +1,11 @@
+id,name,marks
+1,Ram,85
+2,Krishn,90
+3,Rahul,76
+4,Ravi,93
+5,Shyam,66
+6,,88
+7,Jenny,
+8,Grace,54
+9,,45
+10,Rashmi,
